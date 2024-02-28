@@ -103,7 +103,7 @@ For example, one can choose "c" for highly cloudy sky, "h" for hazy sky, "n" for
     
     
 
-Once the processed database is done, one can use it, like in the example provided on 4_Database_Use_example.ipynb to train a simple neural network able to estimate sun's elevation in an image (courtesy of Thomas Kronland Martinet for this last code)
+Once the processed database is done, one can use it, like in the example provided on 4_Database_Use_example.ipynb to train a simple neural network able to estimate sun's elevation in an image (courtesy of Thomas Kronland-Martinet for this last code)
 
 
 
