@@ -1,1 +1,0 @@
-# Long-Term-Skylight-Polarization-Measurement-Device
