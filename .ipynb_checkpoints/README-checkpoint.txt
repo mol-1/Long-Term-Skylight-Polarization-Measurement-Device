@@ -22,7 +22,7 @@ License : CC-BY-SA
 
 
 For code execution, please update the paths in the beginning of each jupyter notebook to match with your own system and install libs specified in requirements.txt. 
-You can download all timestamped ".npy"  (like 2022-08-02_raw.npy) in a local "PolarizedDatabase" folder alongside with manual annotation information (like 2022-08-02_raw_annotations.npy), others numpy files in a calib folder in "PolarizedDatabase/calib" folder,  and eventually the "ManipeResultatsRed.tar.gz" archive in a "ManipeResultats" folder. All codes (jupyter notebooks and python files) should be located in a "PolarizedDatabaseCode" folder.
+You can download all (or only some days by choosing viewing annotated_weather.png figure) timestamped ".npy"  (like 2022-08-02_raw.npy) in a local "PolarizedDatabase" folder alongside with manual annotation information (like 2022-08-02_raw_annotations.npy), others numpy files in a calib folder in "PolarizedDatabase/calib" folder,  and eventually the "ManipeResultatsRed.tar.gz" archive in a "ManipeResultats" folder. All codes (jupyter notebooks and python files) should be located in a "PolarizedDatabaseCode" folder.
 
 This code was executed with python 3.9.6. For parts where processing is parallelized, please ajust the "num_processes" variable to the amount of cores available to your system (in linux you can use "nproc" command in terminal)
 
